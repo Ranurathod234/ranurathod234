@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/ranu-rathod-586120304/](https://www.linkedin.com/in/ranu-rathod-586120304/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitrajmishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ranu-rathod-586120304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitrajmishra" height="30" width="40" /></a>
 <a href="https://kaggle.com/ranurathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitrajmishra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ranurathod234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="0111rajaankit" height="30" width="40" /></a>
 <a href="https://discord.gg/ranurathod234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucifer2459" height="30" width="40" /></a>
